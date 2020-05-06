@@ -1,6 +1,6 @@
 body {
 	height: 100%;
-	margin: 3;
+	margin: 25;
 	text-align: center;
 	width: 100%;
 }
@@ -18,7 +18,7 @@ h2 {
 
 .hero {
 	padding: 300px 0;
-	margin: 32px;
+	margin: 37px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxkeIucQmW3fOkOHR2LHXuZh_il9TXeVa_17Kf4LTP7BYyqBmp&usqp=CAU");
   background-size: cover;
