@@ -8,11 +8,12 @@ body {
 h1 {
 	font-size: 40px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(34, 0, 156);
+  color: MediumBlue;
 }
 
 h2 {
-	font-size: 33px;
+	font-size: 25px;
+	color: LightCoral
 }
 
 
@@ -26,14 +27,14 @@ h2 {
 }
 
 
-p {font-size: 33px;
+p {font-size: 20px;color:OrangeRed
 
 }
 #footer {font-size: 33px;
 
 }
 .hero a {
-	color: #00FFAA;
-	font-size: 34px;
+	color: Peru;
+	font-size: 25px;
 	text-decoration: none;
 }
