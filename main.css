@@ -1,40 +1,26 @@
-body {
-	height: 100%;
-	margin: 25;
-	text-align: center;
-	width: 100%;
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  background-color: MidnightBlue;
 }
 
-h1 {
-	font-size: 40px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  color: MediumBlue;
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: Teal;
+  padding: 25px;
+  color: MidnightBlue;
 }
 
-h2 {
-	font-size: 25px;
-	color: LightCoral
+.carousel-inner img {
+  width: 100%; /* Set width to 100% */
+  margin: auto;
+  min-height:200px;
 }
 
-
-.hero {
-	padding: 300px 0;
-	margin: 37px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxkeIucQmW3fOkOHR2LHXuZh_il9TXeVa_17Kf4LTP7BYyqBmp&usqp=CAU");
-  background-size: cover;
-  color: #6ee5fe
+/* Hide the carousel text when the screen is less than 600 pixels wide */
+@media (max-width: 600px) {
+.carousel-caption {
+  display: none;
 }
-
-
-p {font-size: 20px;color:OrangeRed
-
-}
-#footer {font-size: 33px;
-
-}
-.hero a {
-	color: Peru;
-	font-size: 25px;
-	text-decoration: none;
 }
