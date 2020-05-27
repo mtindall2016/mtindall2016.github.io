@@ -8,7 +8,7 @@
 /* Add a gray background color and some padding to the footer */
 footer {
   background-color: Teal;
-  padding: 25px;
+  padding: 20px;
   color: MidnightBlue;
 }
 
@@ -61,7 +61,10 @@ h2 {
 p {font-size: 20px;color:Black
 
 }
-#footer {font-size: 33px;
+#footer {
+  font-size: 33px;
+  color:Blue; 
+  height:100px;
 
 }
 .hero a {
