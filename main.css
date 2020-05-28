@@ -2,14 +2,18 @@
 .navbar {
   margin-bottom: 0;
   border-radius: 0;
-  background-color: MidnightBlue;
+  background-color: LightPink;
+  color:LightCoral;
 }
 
 /* Add a gray background color and some padding to the footer */
 footer {
-  background-color: Teal;
+  background-color: LightCoral;
   padding: 20px;
-  color: MidnightBlue;
+  color: DarkTurquoise;
+  height: 350px;
+  width: 100%;
+  text-align: left;
 }
 
 .carousel-inner img {
@@ -17,13 +21,14 @@ footer {
   width: 100%; /* Set width to 100% */
   margin: auto;
   max-height:450px;
-  color: MidnightBlue
+  color: MidnightBlue;
 }
 
 /* Hide the carousel text when the screen is less than 600 pixels wide */
 @media (max-width: 600px) {
 .carousel-caption {
   display: none;
+
 }
 }
 
@@ -58,12 +63,12 @@ h2 {
 }
 
 
-p {font-size: 20px;color:Black
+p {font-size: 20px;color:MidnightBlue
 
 }
 #footer {
   font-size: 33px;
-  color:Blue; 
+  color:Cyan;
   height:100px;
 
 }
