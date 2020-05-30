@@ -10,7 +10,7 @@
 footer {
   background-color: LightCoral;
   padding: 20px;
-  color: DarkTurquoise;
+  color: RoyalBlue;
   height: 350px;
   width: 100%;
   text-align: left;
@@ -68,7 +68,7 @@ p {font-size: 20px;color:MidnightBlue
 }
 #footer {
   font-size: 33px;
-  color:Cyan;
+  color:RoyalBlue;
   height:100px;
 
 }
