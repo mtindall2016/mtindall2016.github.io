@@ -17,6 +17,22 @@ h2 {
 }
 
 
+footer {
+  background-color: LightCoral;
+  padding: 20px;
+  color: RoyalBlue;
+  height: 500px;
+  width: 100%;
+  text-align: left;
+}
+
+#footer {
+  font-size: 33px;
+  color:RoyalBlue;
+  height:100px;
+
+
+
 .hero {
 	padding: 300px 0;
 	margin: 37px;
